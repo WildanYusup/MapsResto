@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">maps.resto</string>
+    <string name="i1_desc">Aplikasi yang cukup sederhana 5 rekomendasi restoran.\nGeser ke kanan untuk mengetahui lebih lengkap..</string>
+    <string name="i2_desc">Aplikasi ini akan menggunakan sensor GPS di perangkat Android untuk mendapatkan lokasi pengguna saat aplikasi dibuka</string>
+    <string name="i3_desc">Temukan pengalaman kuliner yang luar biasa dengan rekomendasi restoran terbaik, kami telah mengumpulkan lima restoran pilihan dengan citarasa yang memukau. Selamat menikmati perjalanan kuliner yang tak terlupakan.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+</resources>

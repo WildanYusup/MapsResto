@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".InfomasiFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Informasi"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal|top" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Restoran terdekat adalah tempat makan yang menyajikan berbagai hidangan lezat dengan suasana yang nyaman. Restoran ini menawarkan beragam pilihan menu mulai dari makanan laut segar, hidangan internasional, hingga makanan tradisional lokal. Dengan pelayanan ramah dan profesional, restoran terdekat menjadi destinasi kuliner yang populer bagi wisatawan dan warga sekitar. Nikmati pengalaman kuliner yang tak terlupakan dengan cita rasa yang autentik dan hidangan berkualitas di restoran terdekat."
+        android:textSize="16dp"
+        android:layout_gravity="center" />
+
+</FrameLayout>
